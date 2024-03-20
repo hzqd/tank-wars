@@ -1,0 +1,11 @@
+[package]
+name = "tank-wars"
+version = "0.0.0"
+edition = "2021"
+
+# See more keys and their fninitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+new = "0.0.0"
+inherit = "0.0.3"
+bevy = "0.12.1"
